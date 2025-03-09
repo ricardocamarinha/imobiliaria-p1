@@ -4,7 +4,7 @@
 
 ## 👉 Visualizar Site: <a href='[https://petcare-iota.vercel.app/](https://staging-seven-eta.vercel.app/)'>Ver Site</a>
 
-## » Tecnologias utilizadas: HTML, CSS, SASS, JS, PHP.
+## » Tecnologias utilizadas: HTML, CSS, SASS, JS.
 
 
 <h2>Capturas de tela do projeto 📸</h2>
